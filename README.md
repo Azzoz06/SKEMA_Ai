@@ -14,7 +14,19 @@ This course will address Data Science from two point of views:
 ## Agenda
 ### Day one
 + Introduction
-+
+  + Agenda Presentation & Evaluation Process
++ Artificial Intelligence Fundamentals
+  + What is AI?
+  + Machine Learning
+  + Industry Use Cases
++ IBM Watson AI Platform (Services & Tools)
+
++ **Hands-on Labs** – Machine Learning 101  « The Clickers way » [here](Labs/DayOneLabs/Lab1-GettingStarted.md)  
++ **Hands on Labs** – Machine Learning «  The Coders way »
++ Computer Vision
++ **Hands on Labs** – Visual Recognition
+
+
 
 ### Day Two (half day)
 
