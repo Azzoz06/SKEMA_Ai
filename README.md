@@ -21,7 +21,9 @@ This course will address Data Science from two point of views:
   + Industry Use Cases
 + IBM Watson AI Platform (Services & Tools)
 
-+ **Hands-on Labs** – Machine Learning 101  « The Clickers way » [here](Labs/DayOneLabs/Lab1-GettingStarted.md)  
++ **Hands-on Labs** – Machine Learning 101  « The Clickers way » [here](Labs/DayOneLabs/Lab1-GettingStarted.md) - *This Lab is going to walk you thru the setting of your environment, instantiation of the Watson Studio service and basic data exploration, data visualization and data refinery tasks.* ***You don't need to complete the entire data refinery part***
++ **Hands-on Labs** – Machine Learning 101  « The Clickers way » [here](Labs/DayOneLabs/Lab2-WatsonML_Model_Builder.md) *This lab is going to walk you through the creation of your first **Machine Learning model.** *It will predict the likelihood of a customer to churn for a Telco company*  
+
 + **Hands on Labs** – Machine Learning «  The Coders way »
 + Computer Vision
 + **Hands on Labs** – Visual Recognition
