@@ -29,9 +29,13 @@ This course will address Data Science from two point of views:
 
 ### Day Two (half day)
 + Computer Vision
-+ **Hands on Labs** – Visual Recognition
++ **Hands on Labs** – Visual Recognition using the IBM Watson Visual Recognition service. This is the *clickers* approach available [here](Labs/DayTwoLabs/Lab1%20-%20Using%20Visual%20Recognition%20with%20UI/README.md)  
 + Deep Learning fundamentals
-+ **Hands on Labs** - Deep Learning for image recognition
++ **Hands on Labs** - Deep Learning for image recognition. This lab is going to walk you through the process of building Neural Networks to recognize hand written digits in different ways:
+  1. Using Visual Recognition Service [here](Labs/Lab6-DL_VisualReco/Lab6-DL-Custom_VR/Lab6-Custom_Visual_Reco.md)
+  2. Using a CNN [here](Labs/DayTwoLabs/Lab6-DL_VisualReco/Lab6-DL-HandWritten_CNN_ART/README.md)
+  3. Building a NN in a Jupyter Notebook [here](Labs/DayTwoLabs/Lab6-DL_VisualReco/Lab6-DL-NN_Notebook/Lab6-DeepLearning_Keras_Notebook.md)
+  4. Using the NN Builder from Watson Studio [here](Labs/DayTwoLabs/Lab6-DL_VisualReco/Lab6-DL-NNBuilder/README.md)
 
 
 ### Day Three
