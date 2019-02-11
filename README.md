@@ -25,12 +25,14 @@ This course will address Data Science from two point of views:
 + **Hands-on Labs** – Machine Learning 101  « The Clickers way » [here](Labs/DayOneLabs/Lab2-WatsonML_Model_Builder.md) *This lab is going to walk you through the creation of your first **Machine Learning model.** *It will predict the likelihood of a customer to churn for a Telco company*  
 
 + **Hands on Labs** – Machine Learning «  The Coders way »
-+ Computer Vision
-+ **Hands on Labs** – Visual Recognition
-
 
 
 ### Day Two (half day)
++ Computer Vision
++ **Hands on Labs** – Visual Recognition
++ Deep Learning fundamentals
++ **Hands on Labs** - Deep Learning for image recognition
+
 
 ### Day Three
 
