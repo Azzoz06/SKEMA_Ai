@@ -39,6 +39,9 @@ This course will address Data Science from two point of views:
 
 
 ### Day Three
-
+This section covers the Natural Language Processing section of the labs.
+Labs will walk you through the usage of:
++ **IBM Watson Natural Language Classifier** [here](NLCLabSource/Lab1-Natural_Language_Classifier.md)
++ The process of creating a chatbot using **IBM Watson Assistant**
 ---
 ## Assessment
