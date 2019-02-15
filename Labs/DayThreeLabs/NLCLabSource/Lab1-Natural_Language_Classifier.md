@@ -53,7 +53,7 @@ But lucky for us we have **Watson NLP**. We will use **IBM Watson Natural Langua
 
 We will train Natural Language Classifier to understand the different Job categories by providing some sample Job offering data. The model will then train on the job descriptions dataset and will be ready to begin categorizing job offerings that were never seen before.  
 
-The training data is available from the [New York City Open Data Website](https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t). For practical reasons the data has been prepared for you and is available [NYC_Jobs_Cleaned.csv](data/NYC_Jobs_Cleaned.csv)
+> The training data is available from the [New York City Open Data Website](https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t). **For practical reasons the data has been prepared for you and is available [NYC_Jobs_Cleaned.csv](data/NYC_Jobs_Cleaned.csv)**
 
 
 > **Data Preparation:** You can provide the data to train the Natural Language Classifier in comma-separated value (CSV) format.
@@ -64,7 +64,7 @@ This example is a small sample. Proper training data includes many more records.
 > + The training data must have at least five records (rows), no more than 20,000 records, and no more than 3,000 classes.
 > + The maximum total length of a text value is 1024 characters.
 
-+ In your project, click on the **Assets** tab and load the training data file *Jobs-Data1.csv* either by dragging and dropping it or by browsing to your desktop.
++ In your project, click on the **Assets** tab and load the training data file *NYC_Jobs_Cleaned.csv* either by dragging and dropping it or by browsing to your desktop.
 ![](assets/markdown-img-paste-20190107152255702.png)
 + Upon upload completion, you should see the file shown in the **Data Assets**.
 ![](assets/markdown-img-paste-20190107152339528.png)
